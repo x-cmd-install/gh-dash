@@ -5,13 +5,13 @@ about:
   head: 2e74f5e
   archived: false
   latestVersion: "v4.25.2"
-  collectedAt: 2026-09-07T05:10:20Z
+  collectedAt: 2026-09-07T19:22:20Z
 timeline:
   created: 2021-10-14
   lastCommit: 2026-09-02
   lastRelease: 2026-07-10
 popularity:
-  star: 12482
+  star: 12483
   watcher: 27
   fork: 436
   release: 88
@@ -80,7 +80,7 @@ total:
   commit: 645
 ---
 path: /home/runner/.x-repo/github.com/dlvhdr/gh-dash
-collectedAt: 2026-09-07T05:10:23Z
+collectedAt: 2026-09-07T19:22:24Z
 loc:
   Go:
     code: 28175
@@ -136,7 +136,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:10:25+00:00
+  collectedAt: 2026-09-07T19:22:26+00:00
   platform:
     darwin/arm64:
       name:  gh-dash_v4.25.2_darwin-arm64
