@@ -5,13 +5,13 @@ about:
   head: 2e74f5e
   archived: false
   latestVersion: "v4.25.2"
-  collectedAt: 2026-09-08T02:22:54Z
+  collectedAt: 2026-09-08T05:16:28Z
 timeline:
   created: 2021-10-14
   lastCommit: 2026-09-02
   lastRelease: 2026-07-10
 popularity:
-  star: 12485
+  star: 12486
   watcher: 27
   fork: 436
   release: 88
@@ -80,7 +80,7 @@ total:
   commit: 645
 ---
 path: /home/runner/.x-repo/github.com/dlvhdr/gh-dash
-collectedAt: 2026-09-08T02:22:58Z
+collectedAt: 2026-09-08T05:16:32Z
 loc:
   Go:
     code: 28175
