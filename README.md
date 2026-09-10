@@ -12,6 +12,18 @@ A rich terminal UI for GitHub that doesn't break your flow.
 x install gh-dash
 ```
 
+## Code insight
+
+Total: **38,668** lines of code across **188** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 28,174 | 1,374 | 3,935 | 137 |
+| Yaml | 7,548 | 10 | 610 | 18 |
+| TypeScript | 1,318 | 2 | 27 | 20 |
+| Json | 983 | 0 | 0 | 7 |
+| Css | 509 | 5 | 75 | 6 |
+
 ## Source
 
 - **Upstream**: <https://github.com/dlvhdr/gh-dash>
@@ -23,6 +35,25 @@ x install gh-dash
 - **Latest**: `v4.25.2` (2026-07-10)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 15
+
+## Popularity
+
+- **Stars**: 12,499 · **Forks**: 438 · **Open issues**: 317 · **Contributors**: 100
+
+## Totals (cumulative)
+
+- **Releases**: 88 · **Merged PRs**: 481 · **Open PRs**: 15 · **Closed issues**: 231 · **Open issues**: 86 · **Commits**: 646
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 3 | 0 | 5 | 2 |
+| last60d | 2026-07-12 | 0 | 2 | 4 | 2 | 12 | 4 |
+| 90d | 2026-06-12 | 3 | 10 | 5 | 7 | 18 | 16 |
+| last180d | 2026-03-14 | 5 | 61 | 10 | 23 | 29 | 71 |
+| 360d | 2025-09-15 | 16 | 182 | 15 | 55 | 42 | 179 |
+| last720d | 2024-09-20 | 34 | 278 | 15 | 87 | 62 | 314 |
 
 ## Release assets
 
@@ -44,33 +75,13 @@ x install gh-dash
 | [gh-dash_v4.25.2_windows-amd64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_windows-amd64.exe) | 23.5 MiB | `native/win/x64` |
 | [gh-dash_v4.25.2_windows-arm64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_windows-arm64.exe) | 21.8 MiB | `native/win/arm64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 12,497 · **Forks**: 438 · **Open issues**: 317 · **Contributors**: 100
+Reported by **14** distros on [repology.org](https://repology.org/project/gh-dash). **8** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 88 · **Merged PRs**: 481 · **Open PRs**: 15 · **Closed issues**: 231 · **Open issues**: 86 · **Commits**: 646
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 3 | 0 | 5 | 2 |
-| 90d | 2026-06-12 | 3 | 10 | 5 | 7 | 18 | 16 |
-| 360d | 2025-09-15 | 16 | 182 | 15 | 55 | 42 | 179 |
-
-## Code size
-
-Total: **38,668** lines of code across **188** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 28,174 | 1,374 | 3,935 | 137 |
-| Yaml | 7,548 | 10 | 610 | 18 |
-| TypeScript | 1,318 | 2 | 27 | 20 |
-| Json | 983 | 0 | 0 | 7 |
-| Css | 509 | 5 | 75 | 6 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `4.25.2` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +92,4 @@ Install metadata for gh-dash lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:04:52Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:32:31Z._
