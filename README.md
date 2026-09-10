@@ -23,11 +23,30 @@ x install gh-dash
 - **Latest**: `v4.25.2` (2026-07-10)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 15
-- **Published**: 2026-07-10T10:35:26Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/checksums.txt) | 1.3 KiB | `other` |
+| [gh-dash_v4.25.2_android-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_android-arm64) | 23.3 MiB | `other` |
+| [gh-dash_v4.25.2_darwin-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_darwin-amd64) | 23.2 MiB | `native/darwin/x64` |
+| [gh-dash_v4.25.2_darwin-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_darwin-arm64) | 21.9 MiB | `native/darwin/arm64` |
+| [gh-dash_v4.25.2_freebsd-386](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_freebsd-386) | 21.0 MiB | `other` |
+| [gh-dash_v4.25.2_freebsd-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_freebsd-amd64) | 22.6 MiB | `other` |
+| [gh-dash_v4.25.2_freebsd-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_freebsd-arm64) | 21.1 MiB | `other` |
+| [gh-dash_v4.25.2_freebsd-arm_7](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_freebsd-arm_7) | 21.3 MiB | `other` |
+| [gh-dash_v4.25.2_linux-386](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_linux-386) | 21.3 MiB | `other` |
+| [gh-dash_v4.25.2_linux-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_linux-amd64) | 22.6 MiB | `native/linux/x64` |
+| [gh-dash_v4.25.2_linux-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_linux-arm64) | 21.3 MiB | `native/linux/arm64` |
+| [gh-dash_v4.25.2_linux-arm_7](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_linux-arm_7) | 21.4 MiB | `native/linux/arm` |
+| [gh-dash_v4.25.2_windows-386.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_windows-386.exe) | 22.1 MiB | `native/win/x64` |
+| [gh-dash_v4.25.2_windows-amd64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_windows-amd64.exe) | 23.5 MiB | `native/win/x64` |
+| [gh-dash_v4.25.2_windows-arm64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_windows-arm64.exe) | 21.8 MiB | `native/win/arm64` |
 
 ## Popularity
 
-- **Stars**: 12,493 · **Forks**: 438 · **Open issues**: 317 · **Contributors**: 100
+- **Stars**: 12,497 · **Forks**: 438 · **Open issues**: 317 · **Contributors**: 100
 
 ## Totals (cumulative)
 
@@ -58,8 +77,8 @@ Total: **38,668** lines of code across **188** files in the top 5 languages.
 Install metadata for gh-dash lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gh-dash` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gh-dash.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gh-dash.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:23:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:04:52Z._

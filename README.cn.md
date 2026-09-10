@@ -4,7 +4,7 @@
 
 A rich terminal UI for GitHub that doesn't break your flow.
 
-![gh-dash](https://repo.x-cmd.io/gh-dash.svg)
+![gh-dash](https://repo.x-cmd.io/gh-dash.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,30 @@ x install gh-dash
 - **最新版本**: `v4.25.2` (2026-07-10)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 15 个
-- **发布时间**: 2026-07-10T10:35:26Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/checksums.txt) | 1.3 KiB | `other` |
+| [gh-dash_v4.25.2_android-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_android-arm64) | 23.3 MiB | `other` |
+| [gh-dash_v4.25.2_darwin-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_darwin-amd64) | 23.2 MiB | `native/darwin/x64` |
+| [gh-dash_v4.25.2_darwin-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_darwin-arm64) | 21.9 MiB | `native/darwin/arm64` |
+| [gh-dash_v4.25.2_freebsd-386](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_freebsd-386) | 21.0 MiB | `other` |
+| [gh-dash_v4.25.2_freebsd-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_freebsd-amd64) | 22.6 MiB | `other` |
+| [gh-dash_v4.25.2_freebsd-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_freebsd-arm64) | 21.1 MiB | `other` |
+| [gh-dash_v4.25.2_freebsd-arm_7](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_freebsd-arm_7) | 21.3 MiB | `other` |
+| [gh-dash_v4.25.2_linux-386](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_linux-386) | 21.3 MiB | `other` |
+| [gh-dash_v4.25.2_linux-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_linux-amd64) | 22.6 MiB | `native/linux/x64` |
+| [gh-dash_v4.25.2_linux-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_linux-arm64) | 21.3 MiB | `native/linux/arm64` |
+| [gh-dash_v4.25.2_linux-arm_7](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_linux-arm_7) | 21.4 MiB | `native/linux/arm` |
+| [gh-dash_v4.25.2_windows-386.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_windows-386.exe) | 22.1 MiB | `native/win/x64` |
+| [gh-dash_v4.25.2_windows-amd64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_windows-amd64.exe) | 23.5 MiB | `native/win/x64` |
+| [gh-dash_v4.25.2_windows-arm64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.25.2/gh-dash_v4.25.2_windows-arm64.exe) | 21.8 MiB | `native/win/arm64` |
 
 ## 流行度
 
-- **Star**: 12,493 · **Fork**: 438 · **开放 issue**: 317 · **贡献者**: 100
+- **Star**: 12,497 · **Fork**: 438 · **开放 issue**: 317 · **贡献者**: 100
 
 ## 累计统计
 
@@ -62,4 +81,4 @@ gh-dash 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:23:41Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:04:53Z._
