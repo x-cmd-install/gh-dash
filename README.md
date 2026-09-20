@@ -4,7 +4,7 @@
 
 A rich terminal UI for GitHub that doesn't break your flow.
 
-![gh-dash](https://repo.x-cmd.io/gh-dash.svg)
+[![x-cmd/install — gh-dash Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gh-dash.svg)](https://x-cmd.com/install/gh-dash)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **38,668** lines of code across **188** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,529 · **Forks**: 441 · **Open issues**: 317 · **Contributors**: 100
+- **Stars**: 12,535 · **Forks**: 442 · **Open issues**: 317 · **Contributors**: 100
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 481 · **Open PRs**: 15 · **Closed issues**: 231 · **Open issues**: 86 · **Commits**: 646
+- **Releases**: 88 · **Merged PRs**: 481 · **Open PRs**: 14 · **Closed issues**: 231 · **Open issues**: 86 · **Commits**: 646
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 2 | 0 | 3 | 2 |
-| last60d | 2026-07-20 | 0 | 2 | 4 | 2 | 10 | 3 |
-| 90d | 2026-06-20 | 3 | 9 | 5 | 5 | 15 | 12 |
-| last180d | 2026-03-22 | 5 | 60 | 10 | 21 | 29 | 69 |
-| 360d | 2025-09-23 | 16 | 160 | 15 | 53 | 42 | 167 |
-| last720d | 2024-09-28 | 34 | 276 | 15 | 87 | 62 | 312 |
+| 30d | 2026-08-21 | 0 | 1 | 1 | 0 | 2 | 2 |
+| last60d | 2026-07-22 | 0 | 2 | 2 | 2 | 9 | 3 |
+| 90d | 2026-06-22 | 3 | 9 | 4 | 4 | 14 | 12 |
+| last180d | 2026-03-24 | 5 | 60 | 9 | 21 | 29 | 69 |
+| 360d | 2025-09-25 | 16 | 160 | 14 | 53 | 42 | 167 |
+| last720d | 2024-09-30 | 34 | 275 | 14 | 86 | 62 | 312 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gh-dash lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:37:07Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:31:01Z._

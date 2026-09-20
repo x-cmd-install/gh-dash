@@ -4,7 +4,7 @@
 
 A rich terminal UI for GitHub that doesn't break your flow.
 
-![gh-dash](https://repo.x-cmd.io/gh-dash.svg?lang=zh)
+[![x-cmd/install — gh-dash Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gh-dash.svg?lang=zh)](https://x-cmd.com/install/gh-dash)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install gh-dash
 
 ## 流行度
 
-- **Star**: 12,529 · **Fork**: 441 · **开放 issue**: 317 · **贡献者**: 100
+- **Star**: 12,535 · **Fork**: 442 · **开放 issue**: 317 · **贡献者**: 100
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 481 · **开放 PR**: 15 · **已关闭 issue**: 231 · **开放 issue**: 86 · **提交数**: 646
+- **发布数**: 88 · **已合并 PR**: 481 · **开放 PR**: 14 · **已关闭 issue**: 231 · **开放 issue**: 86 · **提交数**: 646
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 2 | 0 | 3 | 2 |
-| last60d | 2026-07-20 | 0 | 2 | 4 | 2 | 10 | 3 |
-| 90d | 2026-06-20 | 3 | 9 | 5 | 5 | 15 | 12 |
-| last180d | 2026-03-22 | 5 | 60 | 10 | 21 | 29 | 69 |
-| 360d | 2025-09-23 | 16 | 160 | 15 | 53 | 42 | 167 |
-| last720d | 2024-09-28 | 34 | 276 | 15 | 87 | 62 | 312 |
+| 30d | 2026-08-21 | 0 | 1 | 1 | 0 | 2 | 2 |
+| last60d | 2026-07-22 | 0 | 2 | 2 | 2 | 9 | 3 |
+| 90d | 2026-06-22 | 3 | 9 | 4 | 4 | 14 | 12 |
+| last180d | 2026-03-24 | 5 | 60 | 9 | 21 | 29 | 69 |
+| 360d | 2025-09-25 | 16 | 160 | 14 | 53 | 42 | 167 |
+| last720d | 2024-09-30 | 34 | 275 | 14 | 86 | 62 | 312 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ gh-dash 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:37:08Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:31:01Z._
