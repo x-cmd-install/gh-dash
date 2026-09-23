@@ -4,7 +4,7 @@
 
 A rich terminal UI for GitHub that doesn't break your flow.
 
-[![x-cmd/install — gh-dash Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gh-dash.svg?lang=zh)](https://x-cmd.com/install/gh-dash)
+[![x-cmd/install — gh-dash Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gh-dash.svg?lang=zh)](https://x-cmd.com/install/gh-dash)
 
 ## 安装
 
@@ -33,27 +33,27 @@ x install gh-dash
 ## 发布
 
 - **最新版本**: `v4.26.0` (2026-09-21)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 12,544 · **Fork**: 444 · **开放 issue**: 317 · **贡献者**: 100
+- **Star**: 12,542 · **Fork**: 444 · **开放 issue**: 317 · **贡献者**: 100
 
 ## 累计统计
 
-- **发布数**: 89 · **已合并 PR**: 482 · **开放 PR**: 15 · **已关闭 issue**: 231 · **开放 issue**: 86 · **提交数**: 647
+- **发布数**: 89 · **已合并 PR**: 482 · **开放 PR**: 15 · **已关闭 issue**: 231 · **开放 issue**: 86 · **提交数**: 648
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 2 | 2 | 0 | 2 | 3 |
-| last60d | 2026-07-24 | 1 | 3 | 3 | 2 | 9 | 4 |
-| 90d | 2026-06-24 | 4 | 10 | 5 | 4 | 14 | 12 |
-| last180d | 2026-03-26 | 6 | 57 | 10 | 21 | 27 | 64 |
-| 360d | 2025-09-27 | 17 | 161 | 15 | 53 | 42 | 167 |
-| last720d | 2024-10-02 | 35 | 274 | 15 | 86 | 62 | 312 |
+| 30d | 2026-08-24 | 1 | 2 | 2 | 0 | 2 | 4 |
+| last60d | 2026-07-25 | 1 | 3 | 3 | 2 | 9 | 5 |
+| 90d | 2026-06-25 | 4 | 10 | 5 | 3 | 14 | 13 |
+| last180d | 2026-03-27 | 6 | 57 | 10 | 21 | 27 | 65 |
+| 360d | 2025-09-28 | 17 | 161 | 15 | 53 | 42 | 168 |
+| last720d | 2024-10-03 | 33 | 274 | 15 | 85 | 62 | 312 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ gh-dash 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:49:03Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:50:51Z._

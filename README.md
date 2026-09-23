@@ -4,7 +4,7 @@
 
 A rich terminal UI for GitHub that doesn't break your flow.
 
-[![x-cmd/install — gh-dash Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gh-dash.svg)](https://x-cmd.com/install/gh-dash)
+[![x-cmd/install — gh-dash Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gh-dash.svg)](https://x-cmd.com/install/gh-dash)
 
 ## Install
 
@@ -33,27 +33,27 @@ Total: **38,929** lines of code across **189** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.26.0` (2026-09-21)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 12,544 · **Forks**: 444 · **Open issues**: 317 · **Contributors**: 100
+- **Stars**: 12,542 · **Forks**: 444 · **Open issues**: 317 · **Contributors**: 100
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 482 · **Open PRs**: 15 · **Closed issues**: 231 · **Open issues**: 86 · **Commits**: 647
+- **Releases**: 89 · **Merged PRs**: 482 · **Open PRs**: 15 · **Closed issues**: 231 · **Open issues**: 86 · **Commits**: 648
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 2 | 2 | 0 | 2 | 3 |
-| last60d | 2026-07-24 | 1 | 3 | 3 | 2 | 9 | 4 |
-| 90d | 2026-06-24 | 4 | 10 | 5 | 4 | 14 | 12 |
-| last180d | 2026-03-26 | 6 | 57 | 10 | 21 | 27 | 64 |
-| 360d | 2025-09-27 | 17 | 161 | 15 | 53 | 42 | 167 |
-| last720d | 2024-10-02 | 35 | 274 | 15 | 86 | 62 | 312 |
+| 30d | 2026-08-24 | 1 | 2 | 2 | 0 | 2 | 4 |
+| last60d | 2026-07-25 | 1 | 3 | 3 | 2 | 9 | 5 |
+| 90d | 2026-06-25 | 4 | 10 | 5 | 3 | 14 | 13 |
+| last180d | 2026-03-27 | 6 | 57 | 10 | 21 | 27 | 65 |
+| 360d | 2025-09-28 | 17 | 161 | 15 | 53 | 42 | 168 |
+| last720d | 2024-10-03 | 33 | 274 | 15 | 85 | 62 | 312 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gh-dash lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:49:03Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:50:51Z._
