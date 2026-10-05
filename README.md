@@ -38,22 +38,22 @@ Total: **38,929** lines of code across **189** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,583 · **Forks**: 450 · **Open issues**: 317 · **Contributors**: 100
+- **Stars**: 12,588 · **Forks**: 451 · **Open issues**: 317 · **Contributors**: 100
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 482 · **Open PRs**: 15 · **Closed issues**: 231 · **Open issues**: 86 · **Commits**: 648
+- **Releases**: 89 · **Merged PRs**: 482 · **Open PRs**: 16 · **Closed issues**: 231 · **Open issues**: 86 · **Commits**: 648
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 1 | 2 | 1 | 0 | 1 | 2 |
-| last60d | 2026-08-05 | 1 | 2 | 3 | 1 | 6 | 4 |
-| 90d | 2026-07-06 | 3 | 8 | 4 | 3 | 12 | 6 |
-| last180d | 2026-04-07 | 6 | 53 | 8 | 20 | 27 | 59 |
-| 360d | 2025-10-09 | 16 | 149 | 15 | 51 | 40 | 148 |
-| last720d | 2024-10-14 | 33 | 272 | 15 | 85 | 62 | 309 |
+| 30d | 2026-09-05 | 1 | 2 | 2 | 0 | 1 | 2 |
+| last60d | 2026-08-06 | 1 | 2 | 4 | 1 | 6 | 4 |
+| 90d | 2026-07-07 | 3 | 8 | 5 | 3 | 12 | 6 |
+| last180d | 2026-04-08 | 6 | 52 | 9 | 20 | 26 | 59 |
+| 360d | 2025-10-10 | 16 | 149 | 16 | 51 | 40 | 148 |
+| last720d | 2024-10-15 | 33 | 272 | 16 | 85 | 62 | 309 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gh-dash lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:22:23Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:08:57Z._
