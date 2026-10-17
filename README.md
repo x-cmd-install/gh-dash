@@ -14,11 +14,11 @@ x install gh-dash
 
 ## Code insight
 
-Total: **38,929** lines of code across **189** files in the top 5 languages.
+Total: **38,932** lines of code across **189** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,435 | 1,376 | 3,973 | 138 |
+| Go | 28,438 | 1,377 | 3,974 | 138 |
 | Yaml | 7,548 | 10 | 610 | 18 |
 | TypeScript | 1,318 | 2 | 27 | 20 |
 | Json | 983 | 0 | 0 | 7 |
@@ -32,48 +32,48 @@ Total: **38,929** lines of code across **189** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.26.1` (2026-10-09)
-- **Last commit**: 2026-10-09
+- **Latest**: `v4.26.2` (2026-10-16)
+- **Last commit**: 2026-10-16
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 12,628 · **Forks**: 470 · **Open issues**: 319 · **Contributors**: 100
+- **Stars**: 12,630 · **Forks**: 485 · **Open issues**: 318 · **Contributors**: 100
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 483 · **Open PRs**: 17 · **Closed issues**: 233 · **Open issues**: 86 · **Commits**: 649
+- **Releases**: 91 · **Merged PRs**: 484 · **Open PRs**: 17 · **Closed issues**: 232 · **Open issues**: 86 · **Commits**: 650
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 2 | 3 | 1 | 1 | 3 |
-| last60d | 2026-08-17 | 2 | 3 | 4 | 1 | 5 | 5 |
-| 90d | 2026-07-18 | 2 | 4 | 6 | 3 | 11 | 6 |
-| last180d | 2026-04-19 | 7 | 48 | 10 | 17 | 25 | 56 |
-| 360d | 2025-10-21 | 16 | 141 | 17 | 51 | 39 | 149 |
-| last720d | 2024-10-26 | 34 | 273 | 17 | 84 | 61 | 310 |
+| 30d | 2026-09-17 | 3 | 3 | 3 | 1 | 1 | 4 |
+| last60d | 2026-08-18 | 3 | 4 | 4 | 1 | 4 | 6 |
+| 90d | 2026-07-19 | 3 | 5 | 6 | 3 | 11 | 7 |
+| last180d | 2026-04-20 | 8 | 49 | 10 | 16 | 24 | 57 |
+| 360d | 2025-10-22 | 17 | 141 | 17 | 51 | 38 | 150 |
+| last720d | 2024-10-27 | 35 | 274 | 17 | 83 | 61 | 311 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/checksums.txt) | 1.3 KiB | `other` |
-| [gh-dash_v4.26.1_android-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_android-arm64) | 24.0 MiB | `other` |
-| [gh-dash_v4.26.1_darwin-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_darwin-amd64) | 24.0 MiB | `native/darwin/x64` |
-| [gh-dash_v4.26.1_darwin-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_darwin-arm64) | 22.6 MiB | `native/darwin/arm64` |
-| [gh-dash_v4.26.1_freebsd-386](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_freebsd-386) | 21.9 MiB | `other` |
-| [gh-dash_v4.26.1_freebsd-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_freebsd-amd64) | 23.4 MiB | `other` |
-| [gh-dash_v4.26.1_freebsd-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_freebsd-arm64) | 21.8 MiB | `other` |
-| [gh-dash_v4.26.1_freebsd-arm_7](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_freebsd-arm_7) | 23.3 MiB | `other` |
-| [gh-dash_v4.26.1_linux-386](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_linux-386) | 22.1 MiB | `other` |
-| [gh-dash_v4.26.1_linux-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_linux-amd64) | 23.4 MiB | `native/linux/x64` |
-| [gh-dash_v4.26.1_linux-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_linux-arm64) | 21.9 MiB | `native/linux/arm64` |
-| [gh-dash_v4.26.1_linux-arm_7](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_linux-arm_7) | 23.4 MiB | `native/linux/arm` |
-| [gh-dash_v4.26.1_windows-386.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_windows-386.exe) | 23.0 MiB | `native/win/x64` |
-| [gh-dash_v4.26.1_windows-amd64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_windows-amd64.exe) | 24.3 MiB | `native/win/x64` |
-| [gh-dash_v4.26.1_windows-arm64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.1/gh-dash_v4.26.1_windows-arm64.exe) | 22.5 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/checksums.txt) | 1.3 KiB | `other` |
+| [gh-dash_v4.26.2_android-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_android-arm64) | 24.0 MiB | `other` |
+| [gh-dash_v4.26.2_darwin-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_darwin-amd64) | 24.0 MiB | `native/darwin/x64` |
+| [gh-dash_v4.26.2_darwin-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_darwin-arm64) | 22.6 MiB | `native/darwin/arm64` |
+| [gh-dash_v4.26.2_freebsd-386](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_freebsd-386) | 21.9 MiB | `other` |
+| [gh-dash_v4.26.2_freebsd-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_freebsd-amd64) | 23.4 MiB | `other` |
+| [gh-dash_v4.26.2_freebsd-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_freebsd-arm64) | 21.8 MiB | `other` |
+| [gh-dash_v4.26.2_freebsd-arm_7](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_freebsd-arm_7) | 23.3 MiB | `other` |
+| [gh-dash_v4.26.2_linux-386](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_linux-386) | 22.1 MiB | `other` |
+| [gh-dash_v4.26.2_linux-amd64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_linux-amd64) | 23.4 MiB | `native/linux/x64` |
+| [gh-dash_v4.26.2_linux-arm64](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_linux-arm64) | 21.9 MiB | `native/linux/arm64` |
+| [gh-dash_v4.26.2_linux-arm_7](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_linux-arm_7) | 23.4 MiB | `native/linux/arm` |
+| [gh-dash_v4.26.2_windows-386.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_windows-386.exe) | 23.0 MiB | `native/win/x64` |
+| [gh-dash_v4.26.2_windows-amd64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_windows-amd64.exe) | 24.3 MiB | `native/win/x64` |
+| [gh-dash_v4.26.2_windows-arm64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_windows-arm64.exe) | 22.5 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for gh-dash lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:02:46Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:47:19Z._
