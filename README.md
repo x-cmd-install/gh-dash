@@ -38,7 +38,7 @@ Total: **38,945** lines of code across **189** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,660 · **Forks**: 462 · **Open issues**: 327 · **Contributors**: 101
+- **Stars**: 12,667 · **Forks**: 462 · **Open issues**: 327 · **Contributors**: 101
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **38,945** lines of code across **189** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 3 | 1 | 1 | 10 | 3 |
-| last60d | 2026-08-23 | 3 | 5 | 3 | 1 | 12 | 7 |
-| 90d | 2026-07-24 | 3 | 6 | 4 | 3 | 19 | 8 |
-| last180d | 2026-04-25 | 8 | 48 | 9 | 15 | 33 | 56 |
-| 360d | 2025-10-27 | 17 | 137 | 16 | 50 | 47 | 145 |
-| last720d | 2024-11-01 | 35 | 274 | 16 | 83 | 70 | 311 |
+| 30d | 2026-09-23 | 2 | 3 | 1 | 1 | 10 | 3 |
+| last60d | 2026-08-24 | 3 | 5 | 3 | 1 | 12 | 7 |
+| 90d | 2026-07-25 | 3 | 6 | 4 | 3 | 19 | 8 |
+| last180d | 2026-04-26 | 8 | 48 | 9 | 15 | 33 | 56 |
+| 360d | 2025-10-28 | 17 | 137 | 16 | 49 | 47 | 145 |
+| last720d | 2024-11-02 | 35 | 274 | 16 | 83 | 70 | 311 |
 
 ## Release assets
 
@@ -75,6 +75,14 @@ Total: **38,945** lines of code across **189** files in the top 5 languages.
 | [gh-dash_v4.26.2_windows-amd64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_windows-amd64.exe) | 24.3 MiB | `native/win/x64` |
 | [gh-dash_v4.26.2_windows-arm64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_windows-arm64.exe) | 22.5 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **14** distros on [repology.org](https://repology.org/project/gh-dash). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `4.26.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for gh-dash lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gh-dash` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +92,4 @@ Install metadata for gh-dash lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:10:43Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:13:46Z._

@@ -38,7 +38,7 @@ x install gh-dash
 
 ## 流行度
 
-- **Star**: 12,660 · **Fork**: 462 · **开放 issue**: 327 · **贡献者**: 101
+- **Star**: 12,667 · **Fork**: 462 · **开放 issue**: 327 · **贡献者**: 101
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install gh-dash
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 3 | 1 | 1 | 10 | 3 |
-| last60d | 2026-08-23 | 3 | 5 | 3 | 1 | 12 | 7 |
-| 90d | 2026-07-24 | 3 | 6 | 4 | 3 | 19 | 8 |
-| last180d | 2026-04-25 | 8 | 48 | 9 | 15 | 33 | 56 |
-| 360d | 2025-10-27 | 17 | 137 | 16 | 50 | 47 | 145 |
-| last720d | 2024-11-01 | 35 | 274 | 16 | 83 | 70 | 311 |
+| 30d | 2026-09-23 | 2 | 3 | 1 | 1 | 10 | 3 |
+| last60d | 2026-08-24 | 3 | 5 | 3 | 1 | 12 | 7 |
+| 90d | 2026-07-25 | 3 | 6 | 4 | 3 | 19 | 8 |
+| last180d | 2026-04-26 | 8 | 48 | 9 | 15 | 33 | 56 |
+| 360d | 2025-10-28 | 17 | 137 | 16 | 49 | 47 | 145 |
+| last720d | 2024-11-02 | 35 | 274 | 16 | 83 | 70 | 311 |
 
 ## Release 资产
 
@@ -75,6 +75,14 @@ x install gh-dash
 | [gh-dash_v4.26.2_windows-amd64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_windows-amd64.exe) | 24.3 MiB | `native/win/x64` |
 | [gh-dash_v4.26.2_windows-arm64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.2/gh-dash_v4.26.2_windows-arm64.exe) | 22.5 MiB | `native/win/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/gh-dash) 上共有 **14** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `4.26.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 gh-dash 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gh-dash` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +92,4 @@ gh-dash 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:10:44Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:13:46Z._
