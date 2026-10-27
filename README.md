@@ -14,11 +14,11 @@ x install gh-dash
 
 ## Code insight
 
-Total: **38,945** lines of code across **189** files in the top 5 languages.
+Total: **38,951** lines of code across **189** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,451 | 1,377 | 3,975 | 138 |
+| Go | 28,457 | 1,377 | 3,977 | 138 |
 | Yaml | 7,548 | 10 | 610 | 18 |
 | TypeScript | 1,318 | 2 | 27 | 20 |
 | Json | 983 | 0 | 0 | 7 |
@@ -33,27 +33,27 @@ Total: **38,945** lines of code across **189** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.26.2` (2026-10-16)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-26
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 12,682 · **Forks**: 461 · **Open issues**: 327 · **Contributors**: 101
+- **Stars**: 12,683 · **Forks**: 461 · **Open issues**: 327 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 485 · **Open PRs**: 16 · **Closed issues**: 232 · **Open issues**: 95 · **Commits**: 651
+- **Releases**: 91 · **Merged PRs**: 486 · **Open PRs**: 15 · **Closed issues**: 232 · **Open issues**: 95 · **Commits**: 652
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 3 | 1 | 1 | 10 | 3 |
-| last60d | 2026-08-27 | 3 | 5 | 3 | 1 | 12 | 7 |
-| 90d | 2026-07-28 | 3 | 6 | 4 | 3 | 18 | 7 |
-| last180d | 2026-04-29 | 8 | 46 | 9 | 14 | 30 | 51 |
-| 360d | 2025-10-31 | 16 | 135 | 16 | 48 | 47 | 142 |
-| last720d | 2024-11-05 | 35 | 272 | 16 | 83 | 70 | 311 |
+| 30d | 2026-09-27 | 2 | 3 | 1 | 1 | 10 | 4 |
+| last60d | 2026-08-28 | 3 | 6 | 2 | 1 | 12 | 8 |
+| 90d | 2026-07-29 | 3 | 7 | 3 | 3 | 18 | 8 |
+| last180d | 2026-04-30 | 8 | 47 | 8 | 14 | 30 | 52 |
+| 360d | 2025-11-01 | 16 | 136 | 15 | 48 | 46 | 143 |
+| last720d | 2024-11-06 | 35 | 272 | 15 | 83 | 70 | 311 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for gh-dash lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:16:04Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:32:19Z._
