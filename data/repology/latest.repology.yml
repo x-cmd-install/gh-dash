@@ -9,6 +9,17 @@
     - amesgen@amesgen.de
   licenses:
     - MIT
+- repo: stalix_dev
+  srcname: bin/gh/dash
+  binname: bin/gh/dash
+  visiblename: bin/gh/dash
+  version: 4.26.2
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
 - repo: alt_p11
   srcname: gh-dash
   binnames:
@@ -126,9 +137,9 @@
 - repo: nix_unstable
   srcname: gh-dash
   visiblename: gh-dash
-  version: 4.26.1
+  version: 4.26.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Github Cli extension to display a dashboard with pull requests and issues
   maintainers:
     - mail@beyermatthias.de
@@ -141,17 +152,6 @@
   version: 4.25.2
   origversion: null
   status: outdated
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: stalix_dev
-  srcname: bin/gh/dash
-  binname: bin/gh/dash
-  visiblename: bin/gh/dash
-  version: 4.26.2
-  origversion: null
-  status: newest
   maintainers:
     - anton@samokhvalov.xyz
   categories:
