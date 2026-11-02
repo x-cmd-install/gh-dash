@@ -1,7 +1,7 @@
-- repo: nix_stable_24_05
+- repo: nix_stable_25_11
   srcname: gh-dash
   visiblename: gh-dash
-  version: 4.0.0
+  version: 4.18.0
   origversion: null
   status: outdated
   summary: Github Cli extension to display a dashboard with pull requests and issues
@@ -9,6 +9,39 @@
     - amesgen@amesgen.de
   licenses:
     - MIT
+- repo: nix_stable_26_05
+  srcname: gh-dash
+  visiblename: gh-dash
+  version: 4.25.0
+  origversion: null
+  status: outdated
+  summary: Github Cli extension to display a dashboard with pull requests and issues
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: gh-dash
+  visiblename: gh-dash
+  version: 4.26.2
+  origversion: null
+  status: newest
+  summary: Github Cli extension to display a dashboard with pull requests and issues
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: stalix
+  srcname: bin/gh/dash
+  binname: bin/gh/dash
+  visiblename: bin/gh/dash
+  version: 4.26.2
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
 - repo: stalix_dev
   srcname: bin/gh/dash
   binname: bin/gh/dash
@@ -20,6 +53,16 @@
     - anton@samokhvalov.xyz
   categories:
     - bin
+- repo: tur
+  srcname: gh-dash
+  binname: gh-dash
+  visiblename: gh-dash
+  version: 4.26.2
+  origversion: null
+  status: newest
+  summary: A rich terminal UI for GitHub that doesn't break your flow
+  maintainers:
+    - everywhereless@github
 - repo: alt_p11
   srcname: gh-dash
   binnames:
@@ -90,6 +133,17 @@
     - MIT
   categories:
     - devel
+- repo: nix_stable_24_05
+  srcname: gh-dash
+  visiblename: gh-dash
+  version: 4.0.0
+  origversion: null
+  status: outdated
+  summary: Github Cli extension to display a dashboard with pull requests and issues
+  maintainers:
+    - amesgen@amesgen.de
+  licenses:
+    - MIT
 - repo: nix_stable_24_11
   srcname: gh-dash
   visiblename: gh-dash
@@ -112,57 +166,3 @@
     - amesgen@amesgen.de
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: gh-dash
-  visiblename: gh-dash
-  version: 4.18.0
-  origversion: null
-  status: outdated
-  summary: Github Cli extension to display a dashboard with pull requests and issues
-  maintainers:
-    - amesgen@amesgen.de
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: gh-dash
-  visiblename: gh-dash
-  version: 4.25.0
-  origversion: null
-  status: outdated
-  summary: Github Cli extension to display a dashboard with pull requests and issues
-  maintainers:
-    - mail@beyermatthias.de
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: gh-dash
-  visiblename: gh-dash
-  version: 4.26.2
-  origversion: null
-  status: newest
-  summary: Github Cli extension to display a dashboard with pull requests and issues
-  maintainers:
-    - mail@beyermatthias.de
-  licenses:
-    - MIT
-- repo: stalix
-  srcname: bin/gh/dash
-  binname: bin/gh/dash
-  visiblename: bin/gh/dash
-  version: 4.25.2
-  origversion: null
-  status: outdated
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: tur
-  srcname: gh-dash
-  binname: gh-dash
-  visiblename: gh-dash
-  version: 4.26.2
-  origversion: null
-  status: newest
-  summary: A rich terminal UI for GitHub that doesn't break your flow
-  maintainers:
-    - everywhereless@github
