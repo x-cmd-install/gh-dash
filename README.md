@@ -38,7 +38,7 @@ Total: **38,951** lines of code across **189** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,755 · **Forks**: 469 · **Open issues**: 330 · **Contributors**: 101
+- **Stars**: 12,760 · **Forks**: 469 · **Open issues**: 330 · **Contributors**: 101
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **38,951** lines of code across **189** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 1 | 0 | 2 | 10 | 5 |
-| last60d | 2026-09-16 | 4 | 5 | 2 | 3 | 11 | 8 |
-| 90d | 2026-08-17 | 4 | 7 | 2 | 3 | 15 | 10 |
-| last180d | 2026-05-19 | 7 | 26 | 5 | 13 | 29 | 40 |
-| 360d | 2025-11-20 | 16 | 131 | 15 | 49 | 46 | 140 |
-| last720d | 2024-11-25 | 33 | 265 | 15 | 82 | 69 | 300 |
+| 30d | 2026-10-17 | 1 | 1 | 0 | 2 | 1 | 3 |
+| last60d | 2026-09-17 | 4 | 5 | 2 | 3 | 11 | 6 |
+| 90d | 2026-08-18 | 4 | 7 | 2 | 3 | 14 | 10 |
+| last180d | 2026-05-20 | 7 | 26 | 5 | 13 | 29 | 34 |
+| 360d | 2025-11-21 | 16 | 130 | 15 | 49 | 46 | 139 |
+| last720d | 2024-11-26 | 33 | 265 | 15 | 82 | 68 | 300 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Total: **38,951** lines of code across **189** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/gh-dash). **4** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/gh-dash). **5** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,4 +92,4 @@ Install metadata for gh-dash lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:09:08Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:28:14Z._
