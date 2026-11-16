@@ -138,9 +138,9 @@
   srcname: bin/gh/dash
   binname: bin/gh/dash
   visiblename: bin/gh/dash
-  version: 4.26.2
+  version: 4.26.3
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - anton@samokhvalov.xyz
   categories:
