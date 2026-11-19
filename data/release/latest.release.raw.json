@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1340,
       "digest": "sha256:75cb1041b4b0410886b2773887aa7dc4275679bb72a985c9b82b4a63b5dae440",
-      "download_count": 97,
+      "download_count": 219,
       "created_at": "2026-11-13T16:44:52Z",
       "updated_at": "2026-11-13T16:44:52Z",
       "browser_download_url": "https://github.com/dlvhdr/gh-dash/releases/download/v4.26.3/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 25188256,
       "digest": "sha256:b77a5028cb7198f35c0f5056f965a1ebe0f17d13e8ff34c653940e7f3cda47bc",
-      "download_count": 21,
+      "download_count": 28,
       "created_at": "2026-11-13T16:44:51Z",
       "updated_at": "2026-11-13T16:44:52Z",
       "browser_download_url": "https://github.com/dlvhdr/gh-dash/releases/download/v4.26.3/gh-dash_v4.26.3_darwin-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 23725154,
       "digest": "sha256:850c0f652f77837462ba4eba43513b10a63ac7e06646dbc80e00a9d7c1c959ab",
-      "download_count": 715,
+      "download_count": 1073,
       "created_at": "2026-11-13T16:44:49Z",
       "updated_at": "2026-11-13T16:44:53Z",
       "browser_download_url": "https://github.com/dlvhdr/gh-dash/releases/download/v4.26.3/gh-dash_v4.26.3_darwin-arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 23187616,
       "digest": "sha256:72a18b8956f3bfb156bd9f2f9d772d1007fcdbdbe13cd2a5fdf8b28b1a3ab59a",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-13T16:44:49Z",
       "updated_at": "2026-11-13T16:44:52Z",
       "browser_download_url": "https://github.com/dlvhdr/gh-dash/releases/download/v4.26.3/gh-dash_v4.26.3_linux-386"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 24559776,
       "digest": "sha256:9178abe35621ebe0d03978db0601c1f1aa9e7d42437bf71a07b6f6e43a7e7b40",
-      "download_count": 1774,
+      "download_count": 3203,
       "created_at": "2026-11-13T16:44:46Z",
       "updated_at": "2026-11-13T16:44:47Z",
       "browser_download_url": "https://github.com/dlvhdr/gh-dash/releases/download/v4.26.3/gh-dash_v4.26.3_linux-amd64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 23003296,
       "digest": "sha256:940e93c216dc7fdea5b0c6471ce44eb7f6199d5a3b015bf3ea8adc50e67cccd0",
-      "download_count": 82,
+      "download_count": 271,
       "created_at": "2026-11-13T16:44:46Z",
       "updated_at": "2026-11-13T16:44:47Z",
       "browser_download_url": "https://github.com/dlvhdr/gh-dash/releases/download/v4.26.3/gh-dash_v4.26.3_linux-arm64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 24510624,
       "digest": "sha256:78cc00cf2c4e0ca363ec55ed80ea4dcbbe1913e08ca2cf6e0cc262919c5f454f",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-13T16:44:49Z",
       "updated_at": "2026-11-13T16:44:50Z",
       "browser_download_url": "https://github.com/dlvhdr/gh-dash/releases/download/v4.26.3/gh-dash_v4.26.3_linux-arm_7"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 25480704,
       "digest": "sha256:972d49d0dddc2b47cb6d81f0e0a18638a4753776d38d130b13b1d0026f65ac3c",
-      "download_count": 61,
+      "download_count": 120,
       "created_at": "2026-11-13T16:44:48Z",
       "updated_at": "2026-11-13T16:44:49Z",
       "browser_download_url": "https://github.com/dlvhdr/gh-dash/releases/download/v4.26.3/gh-dash_v4.26.3_windows-amd64.exe"
