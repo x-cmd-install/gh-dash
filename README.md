@@ -33,27 +33,27 @@ Total: **38,951** lines of code across **189** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.26.3` (2026-11-13)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-21
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 12,765 · **Forks**: 471 · **Open issues**: 331 · **Contributors**: 101
+- **Stars**: 12,766 · **Forks**: 471 · **Open issues**: 332 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 487 · **Open PRs**: 16 · **Closed issues**: 234 · **Open issues**: 97 · **Commits**: 655
+- **Releases**: 92 · **Merged PRs**: 487 · **Open PRs**: 17 · **Closed issues**: 234 · **Open issues**: 98 · **Commits**: 656
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 1 | 1 | 2 | 2 | 4 |
-| last60d | 2026-09-21 | 4 | 4 | 2 | 3 | 12 | 7 |
-| 90d | 2026-08-22 | 4 | 7 | 3 | 3 | 14 | 11 |
-| last180d | 2026-05-24 | 7 | 22 | 6 | 11 | 30 | 35 |
-| 360d | 2025-11-25 | 16 | 130 | 16 | 49 | 47 | 140 |
-| last720d | 2024-11-30 | 33 | 265 | 16 | 82 | 69 | 301 |
+| 30d | 2026-10-22 | 1 | 1 | 2 | 2 | 3 | 5 |
+| last60d | 2026-09-22 | 3 | 4 | 3 | 3 | 13 | 8 |
+| 90d | 2026-08-23 | 4 | 7 | 4 | 3 | 15 | 12 |
+| last180d | 2026-05-25 | 7 | 22 | 7 | 11 | 31 | 36 |
+| 360d | 2025-11-26 | 16 | 130 | 17 | 49 | 48 | 141 |
+| last720d | 2024-12-01 | 33 | 265 | 17 | 82 | 70 | 302 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for gh-dash lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:38:04Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:31:35Z._
