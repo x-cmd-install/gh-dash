@@ -38,22 +38,22 @@ x install gh-dash
 
 ## 流行度
 
-- **Star**: 12,768 · **Fork**: 474 · **开放 issue**: 332 · **贡献者**: 101
+- **Star**: 12,774 · **Fork**: 474 · **开放 issue**: 333 · **贡献者**: 101
 
 ## 累计统计
 
-- **发布数**: 92 · **已合并 PR**: 487 · **开放 PR**: 17 · **已关闭 issue**: 234 · **开放 issue**: 98 · **提交数**: 656
+- **发布数**: 92 · **已合并 PR**: 487 · **开放 PR**: 17 · **已关闭 issue**: 234 · **开放 issue**: 99 · **提交数**: 656
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 1 | 2 | 2 | 3 | 4 |
-| last60d | 2026-09-26 | 3 | 4 | 3 | 3 | 13 | 8 |
-| 90d | 2026-08-27 | 4 | 7 | 4 | 3 | 15 | 12 |
-| last180d | 2026-05-29 | 7 | 21 | 7 | 11 | 31 | 34 |
-| 360d | 2025-11-30 | 16 | 130 | 17 | 49 | 48 | 141 |
-| last720d | 2024-12-05 | 33 | 265 | 17 | 82 | 70 | 302 |
+| 30d | 2026-10-27 | 1 | 1 | 2 | 1 | 4 | 4 |
+| last60d | 2026-09-27 | 3 | 4 | 3 | 3 | 14 | 8 |
+| 90d | 2026-08-28 | 4 | 7 | 4 | 3 | 16 | 12 |
+| last180d | 2026-05-30 | 7 | 21 | 7 | 11 | 32 | 34 |
+| 360d | 2025-12-01 | 16 | 130 | 17 | 49 | 49 | 141 |
+| last720d | 2024-12-06 | 33 | 265 | 17 | 82 | 71 | 302 |
 
 ## Release 资产
 
@@ -75,14 +75,6 @@ x install gh-dash
 | [gh-dash_v4.26.3_windows-amd64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.3/gh-dash_v4.26.3_windows-amd64.exe) | 24.3 MiB | `native/win/x64` |
 | [gh-dash_v4.26.3_windows-arm64.exe](https://github.com/dlvhdr/gh-dash/releases/download/v4.26.3/gh-dash_v4.26.3_windows-arm64.exe) | 22.5 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/gh-dash) 上共有 **14** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `4.26.3` | ✅ latest |
-
 ## 改进这些数据
 
 gh-dash 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gh-dash` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -92,4 +84,4 @@ gh-dash 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T09:29:34Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T09:37:39Z._
